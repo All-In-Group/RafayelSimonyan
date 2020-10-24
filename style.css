@@ -158,3 +158,5 @@ div a h2, p {
     float: left;
     cursor: pointer;
 }
+
+@media only screen and (max-width: 600px) {}
